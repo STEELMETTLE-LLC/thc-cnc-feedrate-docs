@@ -1,4 +1,12 @@
-# LOTOS LTP8050CNC - CNC Baseline (20 GA through 1 in)
+# CNC Feedrate Sheet - 85A Compressed Air CNC Plasma Baseline (20 GA through 1 in)
+
+This page provides a CNC plasma feedrate chart and pierce/cut baseline values for mechanized cutting with compressed air.
+
+## Quick Navigation
+
+- [Site Home](index.md)
+- [Baseline Context and Usage Notes](Baseline%20Feedrates%2085A%20Compressed%20Air%20Tables.md)
+- [Repository Overview](README.md)
 
 This is a CNC/mechanized baseline sheet only.
 No handheld/drag-cut feedrates are used.

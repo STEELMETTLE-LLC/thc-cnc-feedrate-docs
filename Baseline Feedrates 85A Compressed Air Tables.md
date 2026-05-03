@@ -1,4 +1,12 @@
-# Baseline Feedrates for CNC 85A Compressed-Air Tables
+# Baseline Feedrates for CNC Plasma 85A Compressed-Air Tables
+
+This baseline focuses on CNC plasma feedrates and startup torch-height behavior for mechanized compressed-air systems.
+
+## Quick Navigation
+
+- [Site Home](index.md)
+- [Detailed CNC Feedrate Sheet](CNC%20Feedrate%20Sheet.md)
+- [Repository Overview](README.md)
 
 ## Purpose
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://steelmettle-llc.github.io/thc-cnc-feedrate-docs/sitemap.xml

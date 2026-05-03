@@ -1,11 +1,18 @@
-﻿# CNC Feedrate Baseline Docs (85A Compressed Air)
+﻿# CNC Plasma Feedrate Baseline Docs (85A Compressed Air)
 
 Documentation-only baseline material for mechanized CNC plasma startup tuning.
+This repository targets broad search topics such as CNC plasma feedrates, 85A compressed-air plasma settings, and CNC plasma cut-speed baselines.
 
 This repository intentionally excludes firmware and source code.
 
 ## Included Documents
 
+- [CNC Feedrate Sheet.md](CNC%20Feedrate%20Sheet.md)
+- [Baseline Feedrates 85A Compressed Air Tables.md](Baseline%20Feedrates%2085A%20Compressed%20Air%20Tables.md)
+
+## Start Here
+
+- [Website Home](index.md)
 - [CNC Feedrate Sheet.md](CNC%20Feedrate%20Sheet.md)
 - [Baseline Feedrates 85A Compressed Air Tables.md](Baseline%20Feedrates%2085A%20Compressed%20Air%20Tables.md)
 

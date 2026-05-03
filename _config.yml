@@ -1,0 +1,6 @@
+title: CNC Plasma Feedrate Chart - 85A Compressed Air
+name: STEELMETTLE LLC CNC Feedrate Docs
+description: Mechanized CNC plasma feedrate chart and baseline settings for 85A compressed-air cutting, including pierce time, cut height, and pierce height.
+url: https://steelmettle-llc.github.io
+baseurl: /thc-cnc-feedrate-docs
+markdown: kramdown
