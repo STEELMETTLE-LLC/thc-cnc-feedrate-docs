@@ -27,4 +27,4 @@ Expect to tune approximately 10% to 20% from baseline depending on machine condi
 
 ## GitHub Pages
 
-Project site: https://ordievx31.github.io/thc-cnc-feedrate-docs/
+Project site: https://steelmettle-llc.github.io/thc-cnc-feedrate-docs/
